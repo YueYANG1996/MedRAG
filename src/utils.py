@@ -14,6 +14,8 @@ corpus_names = {
     "StatPearls": ["statpearls"],
     "Wikipedia": ["wikipedia"],
     "MedCorp": ["pubmed", "textbooks", "statpearls", "wikipedia"],
+    "PubMed_all": ["pubmed_all"],
+    "All": ["pubmed_all", "textbooks", "statpearls", "wikipedia"]
 }
 
 retriever_names = {
@@ -63,11 +65,11 @@ def embed(chunk_dir, index_dir, model_name, **kwarg):
                 continue
             texts = [json.loads(item) for item in open(fpath).read().strip().split('\n')]
             if "specter" in model_name.lower():
-                texts = [model.tokenizer.sep_token.join([item["title"], item["content"]]) for item in texts]
+                texts = [model.tokenizer.sep_token.join([item["title"], item["contents"]]) for item in texts]
             elif "contriever" in model_name.lower():
-                texts = [". ".join([item["title"], item["content"]]).replace('..', '.').replace("?.", "?") for item in texts]
+                texts = [". ".join([item["title"], item["contents"]]).replace('..', '.').replace("?.", "?") for item in texts]
             elif "medcpt" in model_name.lower():
-                texts = [[item["title"], item["content"]] for item in texts]
+                texts = [[item["title"], item["contents"]] for item in texts]
             embed_chunks = model.encode(texts, **kwarg)
             np.save(save_path, embed_chunks)
         embed_chunks = model.encode([""], **kwarg)
@@ -231,7 +233,7 @@ class RetrievalSystem:
                     RRF_dict[item["id"]] = {
                         "id": item["id"],
                         "title": item["title"],
-                        "content": item["content"],
+                        "contents": item["contents"],
                         "score": 1 / (rrf_k + j + 1),
                         "count": 1
                         }
@@ -240,6 +242,6 @@ class RetrievalSystem:
             texts = texts[0][:k]
             scores = scores[0][:k]
         else:
-            texts = [dict((key, item[1][key]) for key in ("id", "title", "content")) for item in RRF_list[:k]]
+            texts = [dict((key, item[1][key]) for key in ("id", "title", "contentss")) for item in RRF_list[:k]]
             scores = [item[1]["score"] for item in RRF_list[:k]]
         return texts, scores

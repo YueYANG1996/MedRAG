@@ -1,0 +1,72 @@
+[
+    {
+        "concept": "Is there a collapsed lung visible?",
+        "doc_id": "2886_5304",
+        "reference_sentence": "Atelectasis was diagnosed when a finding of lung collapse was made on chest X-ray.",
+        "doc_content": "ID: 2886_5304, \n The primary outcome was the incidence of postoperative atelectasis and/or pneumonia (occurrence of either event was considered positive) during the hospital stay. Atelectasis and pneumonia were diagnosed on radiological and clinical criteria. Atelectasis was diagnosed when a finding of lung collapse was made on chest X-ray, chest CT and/or lung ultrasound10,11. Pneumonia was diagnosed when the following criteria were met: radiological signs (two successive chest X-rays showing new or progressive lung infiltrates), at least one of the following signs (temperature more than\u200938.3\u00b0C without any other cause, leukocytes more than\u20094000\u2005mm3 or more than\u200912\u2009000\u2005mm3) and at least two of the following signs (purulent sputum, cough, or dyspnoea, declining oxygenation or increased oxygen requirement, or need for respiratory assistance)12. \n\n",
+        "query": "Atelectasis"
+    },
+    {
+        "concept": "Does the chest X-ray show elevated hemidiaphragms?",
+        "doc_id": "4518_17717",
+        "reference_sentence": "The most frequent chest x-ray finding was elevated unilateral or bilateral hemidiaphragms.",
+        "doc_content": "ID: 4518_17717, \n In the majority of patients, both chest x-ray and thoracic HRCT was employed to establish the diagnosis. The most frequent chest x-ray finding was elevated unilateral or bilateral hemidiaphragms, with reduced lung volumes being observed in 69% of patients (49/71). In some, it was associated with basal linear atelectasis (41% [29/71]) and/or mild pleural effusions or pleural thickening (23% [16/71]). The chest radiograph was described as normal in only 3% of the patients (2/62). High-resolution computed tomography was more sensitive than x-ray in detecting mild pleural effusions/thickening or atelectasis (47% [28/59] and 37% [22/59] of the cases, respectively), but its main utility was in ruling out the presence of parenchymal lung disease or vascular pathology. The usefulness of the evaluation of diaphragm dome motion by M-mode ultrasonography was lesser, establishing the diagnosis only in 46% (6/13) of the patients. \n\n",
+        "query": "Atelectasis"
+    },
+    {
+        "concept": "Are there signs of reduced lung volumes?",
+        "doc_id": "4518_17717",
+        "reference_sentence": "Reduced lung volumes being observed in 69% of patients.",
+        "doc_content": "ID: 4518_17717, \n In the majority of patients, both chest x-ray and thoracic HRCT was employed to establish the diagnosis. The most frequent chest x-ray finding was elevated unilateral or bilateral hemidiaphragms, with reduced lung volumes being observed in 69% of patients (49/71). In some, it was associated with basal linear atelectasis (41% [29/71]) and/or mild pleural effusions or pleural thickening (23% [16/71]). The chest radiograph was described as normal in only 3% of the patients (2/62). High-resolution computed tomography was more sensitive than x-ray in detecting mild pleural effusions/thickening or atelectasis (47% [28/59] and 37% [22/59] of the cases, respectively), but its main utility was in ruling out the presence of parenchymal lung disease or vascular pathology. The usefulness of the evaluation of diaphragm dome motion by M-mode ultrasonography was lesser, establishing the diagnosis only in 46% (6/13) of the patients. \n\n",
+        "query": "Atelectasis"
+    },
+    {
+        "concept": "Can basal linear atelectasis be detected?",
+        "doc_id": "4518_17717",
+        "reference_sentence": "In some, it was associated with basal linear atelectasis.",
+        "doc_content": "ID: 4518_17717, \n In the majority of patients, both chest x-ray and thoracic HRCT was employed to establish the diagnosis. The most frequent chest x-ray finding was elevated unilateral or bilateral hemidiaphragms, with reduced lung volumes being observed in 69% of patients (49/71). In some, it was associated with basal linear atelectasis (41% [29/71]) and/or mild pleural effusions or pleural thickening (23% [16/71]). The chest radiograph was described as normal in only 3% of the patients (2/62). High-resolution computed tomography was more sensitive than x-ray in detecting mild pleural effusions/thickening or atelectasis (47% [28/59] and 37% [22/59] of the cases, respectively), but its main utility was in ruling out the presence of parenchymal lung disease or vascular pathology. The usefulness of the evaluation of diaphragm dome motion by M-mode ultrasonography was lesser, establishing the diagnosis only in 46% (6/13) of the patients. \n\n",
+        "query": "Atelectasis"
+    },
+    {
+        "concept": "Are pleural effusions or pleural thickening visible?",
+        "doc_id": "4518_17717",
+        "reference_sentence": "Associated with basal linear atelectasis and/or mild pleural effusions or pleural thickening.",
+        "doc_content": "ID: 4518_17717, \n In the majority of patients, both chest x-ray and thoracic HRCT was employed to establish the diagnosis. The most frequent chest x-ray finding was elevated unilateral or bilateral hemidiaphragms, with reduced lung volumes being observed in 69% of patients (49/71). In some, it was associated with basal linear atelectasis (41% [29/71]) and/or mild pleural effusions or pleural thickening (23% [16/71]). The chest radiograph was described as normal in only 3% of the patients (2/62). High-resolution computed tomography was more sensitive than x-ray in detecting mild pleural effusions/thickening or atelectasis (47% [28/59] and 37% [22/59] of the cases, respectively), but its main utility was in ruling out the presence of parenchymal lung disease or vascular pathology. The usefulness of the evaluation of diaphragm dome motion by M-mode ultrasonography was lesser, establishing the diagnosis only in 46% (6/13) of the patients. \n\n",
+        "query": "Atelectasis"
+    },
+    {
+        "concept": "Is there an opacification visible in the lung area?",
+        "doc_id": "1176_8465",
+        "reference_sentence": "A chest X-ray (Figure 2A) showed opacification of the whole left lung.",
+        "doc_content": "ID: 1176_8465, \n A chest X-ray (Figure 2A) showed opacification of the whole left lung with the differential diagnosis of pleural effusion or total atelectasis of the left lung. Bedside ultrasound with a 5-MHz probe (GE FPA 2B 5 Mhz microconvex ultrasound probe) parallel to the ribs of the anterior lower and upper thorax revealed total left lung collapse and a surrounding hypoechogenic area suggestive of pleural effusion (Figure 2B). The pleural line was not visible in the collapsed lung. This patient was treated with bronchial suction by bronchoscopy and nursing in the right-sided position. A rigid sputum plug was removed from the left main bronchus. After this, the chest X-ray appeared nearly normal, indicating that the therapy had been effective. Chest X-ray and ultrasound of patient 2. (A) Chest X-ray showing total opacification of the left lung. (B) Lung ultrasound with atelectasis of the left lung (A) and hypoechogenic area of pleural effusion (PF). \n\n",
+        "query": "Atelectasis"
+    },
+    {
+        "concept": "Are there signs of lung emphysema?",
+        "doc_id": "4985_30652",
+        "reference_sentence": "The bronchial foreign body signs through MRI diagnosis were emphysema.",
+        "doc_content": "ID: 4985_30652, \n (2015) [19], indicating that the diagnostic level of coronal MRI for airway foreign bodies was better than that of chest X-ray film. What is more, it could clearly show the size, shape, and type of foreign bodies as well as the complications caused to the lungs, and it was easier to identify the related diseases. The bronchial foreign body signs through MRI diagnosis were emphysema\u2009> atelectasis\u2009>\u2009lung infection\u2009>\u2009mediastinal swing\u2009>\u2009limited obstruction\u2009>\u2009mediastinal displacement, in which emphysema and atelectasis were the most common cases, suggesting that emphysema and atelectasis could be the main signs of bronchial foreign body in MRI diagnosis. In the X-ray diagnosis of bronchial foreign body signs, emphysema\u2009>\u2009atelectasis\u2009>\u2009mediastinal displacement\u2009> limited obstruction, where the number of emphysema cases was the largest, which indicated that emphysema could be used as the primary sign of X-ray diagnosis of bronchial foreign bodies. \n\n",
+        "query": "Atelectasis"
+    },
+    {
+        "concept": "Is there increased density in dysfunctional lung areas?",
+        "doc_id": "3611_6710",
+        "reference_sentence": "Increased density of dysfunctional lung areas is the most-obvious manifestation of atelectasis.",
+        "doc_content": "ID: 3611_6710, \n Eventually, due to decreased lung compliance, hypoxemia, decreased pulmonary vascular resistance, hypoxemia, postoperative infection, diffuse alveolar injury, respiratory failure, or even death (in extreme cases) may occur. So far, X-ray imaging has always been an essential means of atelectasis diagnosis, and portable chest X-ray in ICUs (25) is a rapid and straightforward method for the early diagnosis of atelectasis. This is especially true among ICUs patients with respiratory and hemodynamic parameters within a normal range, and where the direct signs of atelectasis mostly appear on chest radiograph crack deviations (3, 4, 26), parenchymal turbidities, linear boundary, and vascular displacements, among which increased density of dysfunctional lung areas is the most-obvious manifestation of atelectasis. \n\n",
+        "query": "Atelectasis"
+    },
+    {
+        "concept": "Is there a perihilar mass visible?",
+        "doc_id": "2944_3615",
+        "reference_sentence": "Chest X-ray was again performed and revealed an enlarging left perihilar mass.",
+        "doc_content": "ID: 2944_3615, \n Lung cancer is often missed on chest radiographs, despite chest radiography typically being the first imaging modality in the diagnosis pathway. We present a 46 year-old male with chest pain referred for chest X-ray, and initial interpretation reported no abnormality within the patient's lungs. The patient was discharged but returned 4 months later with persistent and worsening symptoms. At this time, chest X-ray was again performed and revealed an enlarging left perihilar mass with post-obstructive atelectasis in the left lower lobe. Follow-up chest computerized tomography scan confirmed lung cancer with post-obstructive atelectasis, and subsequent bronchoscopy-assisted biopsy confirmed squamous cell carcinoma. \n\n",
+        "query": "Atelectasis"
+    },
+    {
+        "concept": "Can post-obstructive atelectasis be detected in the X-ray?",
+        "doc_id": "2944_3615",
+        "reference_sentence": "Revealed an enlarging left perihilar mass with post-obstructive atelectasis in the left lower lobe.",
+        "doc_content": "ID: 2944_3615, \n Lung cancer is often missed on chest radiographs, despite chest radiography typically being the first imaging modality in the diagnosis pathway. We present a 46 year-old male with chest pain referred for chest X-ray, and initial interpretation reported no abnormality within the patient's lungs. The patient was discharged but returned 4 months later with persistent and worsening symptoms. At this time, chest X-ray was again performed and revealed an enlarging left perihilar mass with post-obstructive atelectasis in the left lower lobe. Follow-up chest computerized tomography scan confirmed lung cancer with post-obstructive atelectasis, and subsequent bronchoscopy-assisted biopsy confirmed squamous cell carcinoma. \n\n",
+        "query": "Atelectasis"
+    }
+]

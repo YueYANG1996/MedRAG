@@ -1,0 +1,72 @@
+[
+    {
+        "concept": "Does the lesion have an irregular shape?",
+        "doc_id": "2696_9916",
+        "reference_sentence": "It is usually described as an irregular dark skin lesion",
+        "doc_content": "ID: 2696_9916, \n Malignant melanoma (MM) is a malignant tumour, arising from the pigment producing cells (melanosomes) of the deeper layers of the skin (or the eye) and is the leading cause of death attributable to skin lesions. It is usually described as an irregular dark skin lesion that may have areas of varying colour. The mucosal localizations, such as in the oral cavity, oesophagus, larynx, the ano-genital mucosa, and in ovarian cystic teratoma have been also described. Primary MM of the lung is an uncommon neoplasm that may be confused with more conventional types of lung cancer. The proposed criteria for diagnosis are often difficult to be fulfilled, and the lesion is characterised by a poor prognosis. More than 30 cases have been reported in the literature, but not all of them meet the requested criteria. \n\n",
+        "query": "Malignant Lesion"
+    },
+    {
+        "concept": "Is the lesion dark in color?",
+        "doc_id": "2696_9916",
+        "reference_sentence": "It is usually described as an irregular dark skin lesion",
+        "doc_content": "ID: 2696_9916, \n Malignant melanoma (MM) is a malignant tumour, arising from the pigment producing cells (melanosomes) of the deeper layers of the skin (or the eye) and is the leading cause of death attributable to skin lesions. It is usually described as an irregular dark skin lesion that may have areas of varying colour. The mucosal localizations, such as in the oral cavity, oesophagus, larynx, the ano-genital mucosa, and in ovarian cystic teratoma have been also described. Primary MM of the lung is an uncommon neoplasm that may be confused with more conventional types of lung cancer. The proposed criteria for diagnosis are often difficult to be fulfilled, and the lesion is characterised by a poor prognosis. More than 30 cases have been reported in the literature, but not all of them meet the requested criteria. \n\n",
+        "query": "Malignant Lesion"
+    },
+    {
+        "concept": "Does the lesion have varying colors?",
+        "doc_id": "2696_9916",
+        "reference_sentence": "that may have areas of varying colour",
+        "doc_content": "ID: 2696_9916, \n Malignant melanoma (MM) is a malignant tumour, arising from the pigment producing cells (melanosomes) of the deeper layers of the skin (or the eye) and is the leading cause of death attributable to skin lesions. It is usually described as an irregular dark skin lesion that may have areas of varying colour. The mucosal localizations, such as in the oral cavity, oesophagus, larynx, the ano-genital mucosa, and in ovarian cystic teratoma have been also described. Primary MM of the lung is an uncommon neoplasm that may be confused with more conventional types of lung cancer. The proposed criteria for diagnosis are often difficult to be fulfilled, and the lesion is characterised by a poor prognosis. More than 30 cases have been reported in the literature, but not all of them meet the requested criteria. \n\n",
+        "query": "Malignant Lesion"
+    },
+    {
+        "concept": "Is the lesion larger than 6mm in diameter?",
+        "doc_id": "5321_9001",
+        "reference_sentence": "In conclusion, dermoscopy seems to represent an effective and reliable method in differential diagnosis between pigmented non-melanocytic (angiokeratoma Mibelli) and melanocytic lesions (malignant melanoma)",
+        "doc_content": "ID: 5321_9001, \n It is not always easy to determine the correlation between a dermatologic finding and an internal neoplasm or even to define the frequency of this association in the general population.4,5 Curth, in his studies of acanthosis nigricans maligna, proposed some criteria to assess the causal relationship between dermatological change and potential underlying malignancy (Chart 1).2,4,6 Given the wide scope of the subject, we will discuss the dermatoses that are highly correlated with malignancy, whose recognition implies a mandatory investigation of internal malignancy. Since cutaneous paraneoplastic syndromes commonly precede or follow visceral cancer, their recognition may result in earlier diagnosis and better prognosis for the patient (Chart 2).7,8  Curth\u2019s criteria for the diagnosis of cutaneous paraneoplastic syndromes * Treatment of the neoplasia results in regression of the skin lesion; recurrence of the neoplasia implies recurrence of the skin lesion. Association of dermatoses with systemic neoplasias \n\n",
+        "query": "Malignant Lesion"
+    },
+    {
+        "concept": "Is the lesion pigmented?",
+        "doc_id": "201_12776",
+        "reference_sentence": "The concept of an atypical melanocytic lesion (AML) can be applied to any pigmented lesion in which the clinical and dermoscopic criteria are sufficient to classify it as melanocytic, but are insufficient to determine whether the lesion is a benign nevus or an early stage of melanoma.",
+        "doc_content": "ID: 201_12776, \n The concept of an atypical melanocytic lesion (AML) can be applied to any pigmented lesion in which the clinical and dermoscopic criteria are sufficient to classify it as melanocytic, but are insufficient to determine whether the lesion is a benign nevus or an early stage of melanoma. When patients present with one or more AMLs, excision for histopathological diagnosis may be necessary, but more advanced non-invasive diagnostic methods might be preferred. Dermoscopy is a technique that uses a handheld magnifying device combined with either the application of immersion fluid between the transparent plate of the device and the skin or the use of cross-polarized light. This technique allows for visualization of diagnostic features of skin lesions not visible to the naked eye. It is a tool that helps the clinician to assess and differentiate between melanocytic and non-melanocytic lesions and determine whether they are benign or malignant. \n\n",
+        "query": "Benign Lesion"
+    },
+    {
+        "concept": "Is the lesion clearly defined or does it blend with the surrounding skin?",
+        "doc_id": "3589_20537",
+        "reference_sentence": "Dermoscopy is performed with a hand microscope called a dermatoscope, which allows us to see under the skin surface in detail using polarized light.",
+        "doc_content": "ID: 3589_20537, \n Dermoscopy allows doctors to diagnose and treat cancerous skin lesions in more detail by examining benign and malignant tumors on the skin that cannot be distinguished through the eye in more fact. Dermoscopy is performed with a hand microscope called a dermatoscope, which allows us to see under the skin surface in detail using polarized light. Thanks to the ABCD criteria used in the dermoscopy method, superior performance is obtained than other imaging methods [6]. However, precise and rapid skin lesion segmentation remains challenging due to diversity of skin lesions and the low difference between normal and lesioned skin. In addition, many artifacts such as hair strands and blood vessels cause problems during the segmentation [7\u201319]. For this reason, automated medical image segmentation is essential for facilitating the lesion's pathological diagnosis, planning treatment, and monitoring the disease's progress [20]. \n\n",
+        "query": "Benign Lesion"
+    },
+    {
+        "concept": "Is the lesion predominantly a single color?",
+        "doc_id": "201_12776",
+        "reference_sentence": "This technique allows for visualization of diagnostic features of skin lesions not visible to the naked eye.",
+        "doc_content": "ID: 201_12776, \n The concept of an atypical melanocytic lesion (AML) can be applied to any pigmented lesion in which the clinical and dermoscopic criteria are sufficient to classify it as melanocytic, but are insufficient to determine whether the lesion is a benign nevus or an early stage of melanoma. When patients present with one or more AMLs, excision for histopathological diagnosis may be necessary, but more advanced non-invasive diagnostic methods might be preferred. Dermoscopy is a technique that uses a handheld magnifying device combined with either the application of immersion fluid between the transparent plate of the device and the skin or the use of cross-polarized light. This technique allows for visualization of diagnostic features of skin lesions not visible to the naked eye. It is a tool that helps the clinician to assess and differentiate between melanocytic and non-melanocytic lesions and determine whether they are benign or malignant. \n\n",
+        "query": "Benign Lesion"
+    },
+    {
+        "concept": "Is the lesion sharply or poorly demarcated?",
+        "doc_id": "4902_13130",
+        "reference_sentence": "Dermoscopy is used to make the important distinction between benign and malignant skin lesions, with the latter warranting a skin biopsy for histological confirmation.",
+        "doc_content": "ID: 4902_13130, \n TP was considered a diagnosis of melanoma/malignant lesions using the index test confirmed by histopathological examination. TN was considered a diagnosis of banal nevi or other type of benign lesion confirmed by the reference standard. FP was considered a diagnosis of melanoma/malignant lesion by the index test confirmed to be a banal nevi or other benign skin lesion by the reference standard. FN was considered a diagnosis of banal nevi or benign non-melanoma skin lesion by index test confirmed to be a melanoma/malignant lesion by the reference standard. A meta-analysis of DTA studies was conducted using interactive web-based tool MetaDATA (80, 81). Here, starting from the confusion matrix, sensitivity, and specificity per-lesion (i.e., computed on the number of lesions included in the study) of the technique investigated by each study were computed. For both metrics, the 95% confidence interval (CI) was calculated using the Clopper Pearson method (82). \n\n",
+        "query": "Benign Lesion"
+    },
+    {
+        "concept": "Are there vessels visible within the lesion?",
+        "doc_id": "3589_20537",
+        "reference_sentence": "In addition, many artifacts such as hair strands and blood vessels cause problems during the segmentation.",
+        "doc_content": "ID: 3589_20537, \n Dermoscopy allows doctors to diagnose and treat cancerous skin lesions in more detail by examining benign and malignant tumors on the skin that cannot be distinguished through the eye in more fact. Dermoscopy is performed with a hand microscope called a dermatoscope, which allows us to see under the skin surface in detail using polarized light. Thanks to the ABCD criteria used in the dermoscopy method, superior performance is obtained than other imaging methods [6]. However, precise and rapid skin lesion segmentation remains challenging due to diversity of skin lesions and the low difference between normal and lesioned skin. In addition, many artifacts such as hair strands and blood vessels cause problems during the segmentation [7\u201319]. For this reason, automated medical image segmentation is essential for facilitating the lesion's pathological diagnosis, planning treatment, and monitoring the disease's progress [20]. \n\n",
+        "query": "Benign Lesion"
+    },
+    {
+        "concept": "Is the lesion uniform or does it have varied textures?",
+        "doc_id": "2681_15737",
+        "reference_sentence": "Other diagnoses included benign keratosis (2576/11,005, 23.4%), premalignant skin lesions (1132/11,005, 10.3%), other benign lesions (707/11,005, 6.4%), vascular lesions (325/11,005, 3%), inflammatory conditions (187/11,005, 1.7%), dermatofibromas (187/11,005, 1.7%), and nail abnormalities (125/11,005, 1.1%).",
+        "doc_content": "ID: 2681_15737, \n The teledermatologist suspected skin cancer in 20.1% (2214/11,005) of the lesions (nonmelanoma skin cancer [keratinocytic]: 1707/11,005, 15.5%; melanoma: 507/11,005, 4.6%). The most common benign diagnosis was benign melanocytic naevus (2933/11,005, 26.7%); naevi were classified as atypical or dysplastic in 236 of these cases. Other diagnoses included benign keratosis (2576/11,005, 23.4%), premalignant skin lesions (1132/11,005, 10.3%), other benign lesions (707/11,005, 6.4%), vascular lesions (325/11,005, 3%), inflammatory conditions (187/11,005, 1.7%), dermatofibromas (187/11,005, 1.7%), and nail abnormalities (125/11,005, 1.1%). There were 291 skin lesions with no specific diagnosis (did not require further assessment), 206 nondiagnostic skin lesions (required face-to-face outpatient clinic appointments), 96 lesions that had resolved prior to imaging, 18 collision lesions with more than 1 diagnosis, and 8 treatment-related lesions. \n\n",
+        "query": "Benign Lesion"
+    }
+]
